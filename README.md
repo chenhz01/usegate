@@ -1,6 +1,6 @@
 # usegate — 技能/算力合规变现门闸
 
-[![selftest](https://img.shields.io/badge/selftest-9%2F9%20PASS-brightgreen)](./test/selftest.mjs) [![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+[![selftest](https://img.shields.io/badge/selftest-9%2F9%20PASS-brightgreen)](./test/selftest.mjs) [![license](https://img.shields.io/badge/license-Apache--2.0-blue)](./LICENSE)
 
 **解决什么问题**：AI 技能/Agent 工具的需求端已有 69k★ 级别的规模（白嫖与降本动机），但中间层空缺——作者没有机器可读的条款声明格式，使用者没有一键校验工具，双方没有防篡改的使用留痕。usegate 是这层缺失的中间件。
 

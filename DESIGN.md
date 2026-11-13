@@ -12,7 +12,7 @@
 | D4 零依赖 | ✅ PASS | 仅 node:crypto/fs/path；`node test/selftest.mjs` 直跑，无安装步骤 |
 | D5 可测试性 | ✅ PASS | selftest 覆盖放行/拒绝(NC/contact/NOASSERTION/许可不一致)/篡改检出/缺文件，逐条 PASS/FAIL |
 | D6 错误不静默 | ✅ PASS | 拒绝必有 reason 字符串；无空 catch；断链定位到第 N 条 |
-| D7 演进留痕 | ✅ PASS | README/DESIGN/MIT/未做清单齐；git 提交粒度留痕（v1.0→v1.1 换门禁制） |
+| D7 演进留痕 | ✅ PASS | README/DESIGN/LICENSE(Apache-2.0)/未做清单齐；git 提交粒度留痕（v1.0→v1.1 换门禁制） |
 
 ## 发表族 F1–F7
 
